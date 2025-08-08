@@ -1,4 +1,4 @@
-# locationapp
+# L-App School DMS
 
 A new Flutter project.
 
